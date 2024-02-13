@@ -1,4 +1,4 @@
-# Ensemble des livrables(docs
+# Ensemble des livrables(docs)
 
 1. [Accès à la vm](./livrables/1-access-vm.md)
 2. [Scan avec trivy](./livrables/2-trivy.md)
